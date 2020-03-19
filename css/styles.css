@@ -13,7 +13,7 @@ img {
   float: center;
 }
 body {
-  /* margin-top: 10%; */
+  margin-top: 2%;
   font-family: Georgia;
 
 }
@@ -31,5 +31,8 @@ body {
 
 h2 {
   font-weight: bold;
+}
+.top {
+  margin-left: 70%;
 }
 
