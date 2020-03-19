@@ -1,0 +1,19 @@
+.read {
+  float: right;
+}
+
+.search {
+  float: right;
+}
+
+.tabs {
+  float: center;
+}
+body {
+  margin-top: 10%;
+  font-family: Georgia;
+
+}
+.panel-heading {
+  color: black;
+}
