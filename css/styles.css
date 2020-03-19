@@ -1,3 +1,6 @@
+img {
+  width: 10vw;
+}
 .read {
   float: right;
 }
@@ -10,10 +13,14 @@
   float: center;
 }
 body {
-  margin-top: 10%;
+  /* margin-top: 10%; */
   font-family: Georgia;
 
 }
 .panel-heading {
   color: black;
+}
+
+.right {
+  float: right;
 }
